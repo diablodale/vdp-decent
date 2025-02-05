@@ -4,12 +4,7 @@
 We prefer a [responsible coordinated disclosure](https://certcc.github.io/CERT-Guide-to-CVD/tutorials/cvd_in_a_nutshell/)
 of security vulnerabilities.
 
-1. We appreciate your effort to reduce harm to our customers and systems. 🙂
-2. We commit to decent and timely communication, minimize surprises, and keep you "in the loop".
-3. We prefer you report the vulnerability privately to us before public disclosure.
-4. We commit to verify, triage, and potentially remediate verified vulnerabilities.
-5. We prefer to coordinate with you to publish the details of the vulnerability after a remediation is available.
-6. We commit to no punative action against you when using our responsible coordinated disclosure approach.
+We appreciate your effort to reduce harm to our customers and systems and promise decent and timely communication. We commit to no punitive action against you when using our responsible coordinated disclosure approach.
 
 ## Reporting
 
