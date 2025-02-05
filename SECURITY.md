@@ -11,32 +11,6 @@ of security vulnerabilities.
 5. We prefer to coordinate with you to publish the details of the vulnerability after a remediation is available.
 6. We commit to no punitive action against you when using our responsible coordinated disclosure approach.
 
-## Flowchart
-
-```mermaid
-flowchart TB
-    report([Report to Decent Espresso])
-    autoreply([Automated Response 24 hrs])
-    personalcontact([Personal Contact 5 biz days])
-    verify([Verify Vulnerability])
-    triage([Triage])
-    summary([Summarize and Respond])
-    remediate([Remediate])
-    coordinate([Coordinate Disclosure])
-    disclose([Public Disclosure])
-
-    report --> autoreply
-    autoreply --> personalcontact
-    personalcontact --> verify
-    verify -->|clarify| personalcontact
-    verify --> triage
-    triage --> summary
-    summary --> remediate
-    summary --> disclose
-    remediate --> coordinate
-    coordinate --> disclose
-```
-
 ## Reporting
 
 When you find a security vulnerability, please report it to us by sending
@@ -70,6 +44,32 @@ We prefer security vunerability communication in English.
 6. We will work with you to coordinate the public disclosure of the vulnerability after remediation is available.
 7. We will acknowledge your contributions in our public disclosure.
    We will respect your privacy and anonymity if you request it.
+
+## Flowchart
+
+```mermaid
+flowchart TB
+    report([Report to Decent Espresso])
+    autoreply([Automated Response 24 hrs])
+    personalcontact([Personal Contact 5 biz days])
+    verify([Verify Vulnerability])
+    triage([Triage])
+    summary([Summarize and Respond])
+    remediate([Remediate])
+    coordinate([Coordinate Disclosure])
+    disclose([Public Disclosure])
+
+    report --> autoreply
+    autoreply --> personalcontact
+    personalcontact --> verify
+    verify -->|clarify| personalcontact
+    verify --> triage
+    triage --> summary
+    summary --> remediate
+    summary --> disclose
+    remediate --> coordinate
+    coordinate --> disclose
+```
 
 ## Bug bounty
 
