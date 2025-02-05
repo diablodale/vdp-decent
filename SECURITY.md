@@ -4,7 +4,7 @@
 We prefer a [responsible coordinated disclosure](https://certcc.github.io/CERT-Guide-to-CVD/tutorials/cvd_in_a_nutshell/)
 of security vulnerabilities.
 
-I would propose to move the flowchart down in order to prioritize the report section. Also, "Investigation, triage, remediation, disclosure" and the flow chart are more or less the same. Hence, it makes sense to have them together.
+We appreciate your effort to reduce harm to our customers and systems and promise decent and timely communication. We commit to no punitive action against you when using our responsible coordinated disclosure approach.
 
 ## Reporting
 
