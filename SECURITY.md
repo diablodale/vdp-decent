@@ -9,7 +9,7 @@ of security vulnerabilities.
 3. We prefer you report the vulnerability privately to us before public disclosure.
 4. We commit to verify, triage, and potentially remediate verified vulnerabilities.
 5. We prefer to coordinate with you to publish the details of the vulnerability after a remediation is available.
-6. We commit to no punative action against you when using our responsible coordinated disclosure approach.
+6. We commit to no punitive action against you when using our responsible coordinated disclosure approach.
 
 ## Flowchart
 
