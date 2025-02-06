@@ -8,8 +8,8 @@ We appreciate your effort to reduce harm to our customers and systems and promis
 
 ## Reporting
 
-When you find a security vulnerability, please report it to us by sending
-an email to [security@decentespresso.com](mailto:security@decentespresso.com).
+We prefer you report the vulnerability privately to us before public disclosure.
+Please report it to us by sending an email to [security@decentespresso.com](mailto:security@decentespresso.com).
 
 We request you include, when possible, the following information to help us understand the issue:
 
