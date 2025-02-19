@@ -32,17 +32,16 @@ We appreciate your effort to reduce harm to our customers and systems.
 We will personally contact you to verify the vulnerability within 5 business days.
 We ask for your patience since we may need additional information or clarification.
 
-We request, when possible, the following information to help us understand the issue.
-Please reply to this email with any missing information.
+Please reply to this email to add any of the following information:
 
-* Brief paragraph describing the vulnerability
+* Brief description of the vulnerability
 * Impact (e.g. data loss, unauthorized access, equipment failure, physical harm, etc.)
-* Models or versions affected, configuration, setup
-* Very detailed steps to reproduce the vulnerability
-* Result or evidence of the vulnerability (e.g. screenshots, logs, etc.)
-* Expected behavior which is not observed (how it should be secure)
+* Affected models or versions, configuration, setup
+* Detailed steps to reproduce the vulnerability
+* Evidence of the vulnerability (e.g. screenshots, logs, etc.)
+* Expected secure behavior
 * Proof of concept or exploit code (if applicable) in a ZIP file, private git repository, etc.
-* Your contact information (email, phone number, etc.) for further communication
+* Your contact information (email, phone number, etc.)
 
 You may encrypt your email or file attachments using our <<<PGP public key url here>>>.
 ```
