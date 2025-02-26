@@ -13,14 +13,14 @@ Please report it to us by sending an email to [security@decentespresso.com](mail
 
 We request you include, when possible, the following information to help us understand the issue:
 
-- Brief paragraph describing the vulnerability
-- Impact (e.g. data loss, unauthorized access, equipment failure, physical harm, etc.)
-- Models or versions affected, configuration, setup
-- Very detailed steps to reproduce the vulnerability
-- Result or evidence of the vulnerability (e.g. screenshots, logs, etc.)
-- Expected behavior which is not observed (how it should be secure)
-- Proof of concept or exploit code (if applicable) in a ZIP file, private git repository, etc.
-- Your contact information (email, phone number, etc.) for further communication
+* Brief description of the vulnerability
+* Impact (e.g. data loss, unauthorized access, equipment failure, physical harm, etc.)
+* Affected models or versions, configuration, setup
+* Detailed steps to reproduce the vulnerability
+* Evidence of the vulnerability (e.g. screenshots, logs, etc.)
+* Expected secure behavior
+* Proof of concept or exploit code (if applicable) in a ZIP file, private git repository, etc.
+* Your contact information (email, phone number, etc.)
 
 You may encrypt your email or file attachments using our
 [#PGP public key url here#](https://decentespresso.com/xxxxxxxx-Public-Key.asc).
