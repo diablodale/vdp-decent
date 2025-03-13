@@ -23,7 +23,7 @@ We request you include, when possible, the following information to help us unde
 * Your contact information (email, phone number, etc.)
 
 You may encrypt your email or file attachments using our
-[#PGP public key url here#](https://decentespresso.com/xxxxxxxx-Public-Key.asc).
+[GPG public key](https://decentespresso.com/security-public-key.asc).
 
 We prefer security vunerability communication in English.
 
