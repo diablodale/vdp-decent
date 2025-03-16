@@ -53,3 +53,15 @@ String search or replace can be used to customize the install for different choi
    subject and body as described in [autoreply-email.md](autoreply-email.md).
 5. Ensure the email server is regularly monitored for incoming security vulnerability reports that may
    have been incorrectly classified as spam.
+
+### securitytxt
+
+1. Generate a `security.txt` file on [securitytxt.org](https://securitytxt.org/).
+   * Enter `security@decentespresso.com` as _Contact_
+   * Choose 1 year from now as _Expires_
+   * Enter `https://decentespresso.com/security-public-key.asc` as _Encryption_
+   * Enter `en` as _Preferred-Languages_
+   * Leave all other field empty for now
+2. Store the Output at _Step 2_ of the website to a file named `security.txt`
+3. Distribute the file at `https://decentespresso.com/.well-known/security.txt` and if possible at `https://decentespresso.com/security.txt`
+4. Ensure the security.txt file is regularly reviewed and renewed before its expiration.
