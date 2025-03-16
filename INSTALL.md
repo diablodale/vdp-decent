@@ -36,7 +36,11 @@ String search or replace can be used to customize the install for different choi
 5. Distribute the public key at `https://decentespresso.com/security-public-key.asc`
 6. Test the public key is available for anyone to download from `https://decentespresso.com/security-public-key.asc`
 7. Test the key pair by encrypting and decrypting a test email message.
-8. Ensure the key pair is regularly reviewed and renewed before its expiration.
+8.  Run the following gpg command to publish the public key to a keyserver. Replace `{key-id}` with the key ID from the end of step 2.
+   ```bash
+    gpg --keyserver keyserver.ubuntu.com --send-keys {key-id}
+   ```
+9. Ensure the key pair is regularly reviewed and renewed before its expiration.
 
 ### Email
 
