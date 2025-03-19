@@ -22,7 +22,7 @@ String search or replace can be used to customize the install for different choi
 1. We recommend using [GnuPG](https://gnupg.org/) for all related key, encryption, and decryption tasks.
    * Generate keys on a secure system and private keys stored in a secure non-public location
    * Generate keys with a passphrase for additional security
-   * Generate keys with the ECC algorithm having 25519 curve
+   * Generate keys with the RSA algorithm having 3072 bits; good ecosystem support for reasonable use cases
    * Generate keys with an expiration date of 1 year or less for regular review and renewal
 2. Run the gpg command to generate a new key pair. This is an interactive process.
    ```bash
@@ -46,15 +46,16 @@ String search or replace can be used to customize the install for different choi
 
 1. Ensure the email server is secure and protected from unauthorized access
 2. Create a new email address `security@decentespresso.com` for security vulnerability reporting.
-3. Create a server-side rule to forward all received emails to the security email address or service
-   to be read by the internally designated security team.
+3. Implement the email address in a way that ensures that all incoming mail reaches the whole
+   internally-designated security team and that the emails are read. Potential options include forwarding
+   to everyone in the team or a shared group mailbox.
 4. Create a server-side automated email response to acknowledge receipt of emails. This should be instant
    but no later than 24 hours after receipt. This response should follow the recommendations for
    subject and body as described in [autoreply-email.md](autoreply-email.md).
 5. Ensure the email server is regularly monitored for incoming security vulnerability reports that may
    have been incorrectly classified as spam.
 
-### securitytxt
+### security.txt
 
 1. Generate a `security.txt` file on [securitytxt.org](https://securitytxt.org/).
    * Enter `security@decentespresso.com` as _Contact_
