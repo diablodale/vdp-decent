@@ -10,14 +10,14 @@ String search or replace can be used to customize the install for different choi
 
 * Organization is named `Decent Espresso`
 * Domain name `decentespresso.com`
-* Security email address `security@decentespresso.com`
+* Security email address `decentespresso@gmail.com`
 
 ## Install Procedure
 
 ### Email
 
 1. Ensure the email server is secure and protected from unauthorized access
-2. Create a new email address `security@decentespresso.com` for security vulnerability reporting.
+2. Create a new email address `decentespresso@gmail.com` for security vulnerability reporting.
 3. Implement the email address in a way that ensures that all incoming mail reaches the whole
    internally-designated security team and that the emails are read. Potential options include forwarding
    to everyone in the team or a shared group mailbox.
@@ -30,7 +30,7 @@ String search or replace can be used to customize the install for different choi
 ### security.txt
 
 1. Generate a `security.txt` file on [securitytxt.org](https://securitytxt.org/).
-   * Enter `security@decentespresso.com` as _Contact_
+   * Enter `decentespresso@gmail.com` as _Contact_
    * Choose 1 year from now as _Expires_
    * Enter `en` as _Preferred-Languages_
    * Leave all other field empty for now

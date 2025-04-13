@@ -1,6 +1,6 @@
 # Automated Acknowledgement Email
 
-When any email (careful spam filtering) is received at <security@decentespresso.com>, an automated email response should be sent within 24 hours.
+When any email (careful spam filtering) is received at <decentespresso@gmail.com>, an automated email response should be sent within 24 hours.
 This aligns with the intention for decent and timely communication.
 
 English is the preferred language and style. It should be the first language in the body.
