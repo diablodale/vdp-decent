@@ -22,9 +22,6 @@ We request you include, when possible, the following information to help us unde
 * Proof of concept or exploit code (if applicable) in a ZIP file, private git repository, etc.
 * Your contact information (email, phone number, etc.)
 
-You may encrypt your email or file attachments using our
-[GPG public key](https://decentespresso.com/security-public-key.asc).
-
 We prefer security vunerability communication in English.
 
 ## Investigation, triage, remediation, disclosure

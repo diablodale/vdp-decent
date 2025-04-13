@@ -43,6 +43,4 @@ Please reply to this email to add any of the following information:
 * Proof of concept or exploit code (if applicable) in a ZIP file, private git repository, etc.
 * Your contact information (email, phone number, etc.)
 
-You may encrypt your email or file attachments using our
-GPG public key at https://decentespresso.com/security-public-key.asc
 ```
